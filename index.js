@@ -32,4 +32,3 @@ function inc(n) {
   return a++
 }
 inc(n)
-
